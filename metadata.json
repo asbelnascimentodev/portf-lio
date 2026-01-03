@@ -1,0 +1,8 @@
+{
+  "name": "PORTFÓLIO/ASBEL",
+  "description": "Um portfólio e currículo interativo moderno, apresentando habilidades, experiências e conquistas com uma estética futurista de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
